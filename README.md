@@ -1,2 +1,1 @@
-# biped
-Bipedal Robot Repository
+# Bipedal Robot Repository
