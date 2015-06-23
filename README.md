@@ -11,7 +11,4 @@
 
 - Sketch Code
 
-
-
-
 *Thanks to [k.biagini](http://www.instructables.com/id/BoB-the-BiPed/?comments=all#CSINQXBI4GWW62H)!*
